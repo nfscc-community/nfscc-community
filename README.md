@@ -8,7 +8,7 @@ Nurul Fikri Student CyberSecurity Community (NFSCC)
 <!-- (Opsional) Jika punya banner sendiri, ganti src ke file repo:
 <img src="assets/branding/banner-nfscc.png" width="100%" alt="NFSCC Banner" />
 -->
-
+<img src="assets/logo-nfscc.png" width="110" alt="NFSCC Logo" />
 <h1>Nurul Fikri Student CyberSecurity Community (NFSCC)</h1>
 
 <p><i>“Think Like A Hacker, Act Like A Pro”</i></p>
