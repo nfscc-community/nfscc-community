@@ -96,14 +96,4 @@ Repository **nfscc-community** digunakan untuk:
 
 ---
 
-## Struktur Direktori (Disarankan)
 
-```txt
-nfscc-community/
-├─ docs/                 # SOP, guideline, dokumentasi internal
-├─ activities/           # dokumentasi kegiatan (notulensi, recap)
-├─ workshops/            # modul & materi workshop
-├─ labs/                 # environment lab (docker/vm), panduan setup
-├─ research/             # riset mini / paper ringkas / catatan
-├─ tools/                # script internal (untuk pembelajaran)
-└─ assets/               # logo, banner, gambar dokumentasi
