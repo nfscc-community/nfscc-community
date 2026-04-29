@@ -1,15 +1,15 @@
 <!--
-README.md — nfscc-community
-Nurul Fikri Student CyberSecurity Community (NFSCC)
+README.md — nfcc-community
+Nurul Fikri Student CyberSecurity Community (NFCC)
 -->
 
 <div align="center">
 
 <!-- (Opsional) Jika punya banner sendiri, ganti src ke file repo:
-<img src="assets/branding/banner-nfscc.png" width="100%" alt="NFSCC Banner" />
+<img src="assets/branding/banner-nfcc.png" width="100%" alt="NFCC Banner" />
 -->
-<img src="assets/Logo_NFCC.png" width="110" alt="NFSCC Logo" />
-<h1>Nurul Fikri CyberSecurity Community (NFSCC)</h1>
+<img src="assets/Logo_NFCC.png" width="110" alt="NFCC Logo" />
+<h1>Nurul Fikri CyberSecurity Community (NFCC)</h1>
 
 <p><i>“Think Like A Hacker, Act Like A Pro”</i></p>
 
@@ -31,11 +31,11 @@ Nurul Fikri Student CyberSecurity Community (NFSCC)
 
 ## Tentang
 
-**Nurul Fikri Student Cybersecurity Community (NFSCC)** adalah **Unit Kegiatan Mahasiswa (UKM)** yang berfokus pada bidang **keamanan siber**, bertujuan untuk membangun kesadaran dan kompetensi di kalangan mahasiswa dalam menghadapi ancaman dunia digital yang semakin kompleks.
+**Nurul Fikri Cybersecurity Community (NFCC)** adalah **Unit Kegiatan Mahasiswa (UKM)** yang berfokus pada bidang **keamanan siber**, bertujuan untuk membangun kesadaran dan kompetensi di kalangan mahasiswa dalam menghadapi ancaman dunia digital yang semakin kompleks.
 
-NFSCC menyediakan wadah bagi mahasiswa untuk belajar dan berbagi pengetahuan mengenai berbagai aspek keamanan siber melalui kegiatan seperti **seminar**, **workshop**, **kompetisi**, dan **riset**.
+NFCC menyediakan wadah bagi mahasiswa untuk belajar dan berbagi pengetahuan mengenai berbagai aspek keamanan siber melalui kegiatan seperti **seminar**, **workshop**, **kompetisi**, dan **riset**.
 
-NFSCC juga berperan aktif dalam menciptakan lingkungan yang aman dari ancaman siber di kampus, dengan tujuan utama meminimalisir terjadinya cybercrime serta menjadikan **STT Terpadu Nurul Fikri** sebagai pusat keunggulan di bidang cybersecurity di kawasan terdekat. Dengan kolaborasi antar mahasiswa, para ahli, serta organisasi eksternal, NFSCC berkomitmen membekali anggotanya dengan keterampilan yang relevan dan aplikatif dalam dunia teknologi informasi yang terus berkembang.
+NFCC juga berperan aktif dalam menciptakan lingkungan yang aman dari ancaman siber di kampus, dengan tujuan utama meminimalisir terjadinya cybercrime serta menjadikan **STT Terpadu Nurul Fikri** sebagai pusat keunggulan di bidang cybersecurity di kawasan terdekat. Dengan kolaborasi antar mahasiswa, para ahli, serta organisasi eksternal, NFCC berkomitmen membekali anggotanya dengan keterampilan yang relevan dan aplikatif dalam dunia teknologi informasi yang terus berkembang.
 
 ---
 
@@ -55,7 +55,7 @@ Menjadi komunitas mahasiswa yang unggul dalam pengembangan kompetensi keamanan s
 
 ## Fokus Keilmuan
 
-NFSCC mengembangkan kompetensi melalui dua pendekatan utama yang saling melengkapi:
+NFCC mengembangkan kompetensi melalui dua pendekatan utama yang saling melengkapi:
 
 ### Red Team (Offensive Security)
 Kegiatan yang berfokus pada simulasi serangan untuk menguji dan meningkatkan ketahanan sistem, meliputi:
@@ -87,7 +87,7 @@ Kegiatan yang berfokus pada pertahanan, pemantauan, dan respon insiden, meliputi
 
 ## Tujuan Repository ini
 
-Repository **nfscc-community** digunakan untuk:
+Repository **nfcc-community** digunakan untuk:
 - Dokumentasi organisasi (SOP, guideline, catatan kegiatan)
 - Modul pelatihan dan materi workshop
 - Lingkungan lab (Docker/VM) untuk pembelajaran internal
